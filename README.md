@@ -1,2 +1,2 @@
 # ola
-Implementing OLA and SOLA
+Contains codes for time-scale modificaion using OLA and SOLA methods.
